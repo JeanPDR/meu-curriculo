@@ -8,5 +8,5 @@
 <p> ✌️ - Abaixo contém uma section com as habilidade e algumas barras com as porcetagens sobre as minhas habilidades.</p>
 
 
-Link do Site: <a>https://jeanpdr.github.io/Meu_Curriculo/</a>
+Link do Site: <a>https://jeanpdr.github.io/meu-curriculo/</a>
  
