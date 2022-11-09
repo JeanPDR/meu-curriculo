@@ -1,7 +1,7 @@
 # Meu_Curriculo
 
 
-<p> 👨🏻‍💻 -Neste repositorio eu costruir um simples curriculo em HTML, CSS e Javascript💡</p>
+<p> 👨🏻‍💻 -Neste repositorio eu construir um simples curriculo em HTML, CSS e Javascript💡</p>
 
 <p> 😁 - Dentro do site contém um header com as minhas redes sociais, abaixo contem uma section com uma breve descrição sobre mim e mais algumas informações pessoais.</p>
 
